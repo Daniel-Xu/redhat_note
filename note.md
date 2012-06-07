@@ -10,11 +10,11 @@
 
   	install source code.
 
-	1. ./configure
+		1. ./configure
 
-	2. make
+		2. make
 	
-	3. make install
+		3. make install
 
   + third
 
