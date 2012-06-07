@@ -4,7 +4,7 @@
 	
 # vmware tool
 
-  *This tool makes it easy for file transport between Linux and Windows*
+  *This tool makes it easy for file transporting between Linux and Windows*
 
   > press **VM** and select install vmware tool
 
