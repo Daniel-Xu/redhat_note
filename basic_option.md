@@ -8,7 +8,7 @@
 
   > press **VM** and select install vmware tool
 
-  > ![Alt vmware](/home/iverson/redhat_note/pic/basic_vmware.jpg "vmware tool")
+  > ![Alt vmware](./pic/basic_vmware.jpg "vmware tool")
 
   > umount /dev/cdrom
 
