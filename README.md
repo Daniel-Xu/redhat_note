@@ -1,6 +1,6 @@
 # This is about **linux basic command**
 
-  + os detail 
+  + OS version
     
     redhat enterprise linux 6
 
