@@ -20,7 +20,7 @@
 
   > cd vmwaretool
 
-  > perl install.p
+  > perl install.pl
 
 # no login
 
