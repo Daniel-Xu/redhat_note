@@ -154,11 +154,11 @@
 
     + crontab form
 
-	  ![Alt "charactor"](/home/iverson/server/rhcsa/pic/charactor.jpg "charactor")
+	  ![Alt "charactor"](https://github.com/liangxiao3/redhat_note/raw/master/pic/charactor.jpg "charactor")
 	
 	+ example
 	 
-	  ![Alt "crond_exp"](/home/iverson/server/rhcsa/pic/crond_exp.jpg "crond_exp")
+	  ![Alt "crond_exp"](https://github.com/liangxiao3/redhat_note/raw/master/pic/crond_exp.jpg "crond_exp")
 
     + save
 
