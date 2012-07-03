@@ -24,3 +24,23 @@
     
 	`$ git config --global http.sslVerify false`
 
+# git image path
+   
+  In the markdown file in local computer,  picture path should be written like this:
+
+  > `![Alt desc](/pic_dir_path/pic_name.jpg "desc")`
+
+  However, we we `git push` this file, picture in the file can not display regularly
+
+  To solve the problem, we should use raw format path, like this:
+
+  > `![Alt desc](https://github.com/username/reponame/raw/branch/pic_dir/pic_name.jpg "desc")`
+
+  > for a instance, like this
+  
+  > `![Alt desc](https://github.com/liangxiao3/redhat_note/raw/master/pic/pic_name.jpg "desc")`
+
+
+
+
+
