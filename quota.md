@@ -26,7 +26,7 @@
 
     > quotacheck -ugcv /dev/sdb1
 
-	> ![Alt check](https://github.com/liangxiao3/redhat_note/raw/master/pic/quota_check.jpg "check")
+	> ![Alt check](https://github.com/Daniel-Xu/redhat_note/raw/master/pic/quota_check.jpg "check")
 
   + add user
   
@@ -40,7 +40,7 @@
 
     > edquota -u username
 
-	> ![Alt edit](https://github.com/liangxiao3/redhat_note/raw/master/pic/quota_edit.jpg "edit")
+	> ![Alt edit](https://github.com/Daniel-Xu/redhat_note/raw/master/pic/quota_edit.jpg "edit")
 
 	> edquota -g groupname
 
@@ -68,11 +68,11 @@
 
   	> quota -u alice
 
-	> ![Alt user](https://github.com/liangxiao3/redhat_note/raw/master/pic/quota.jpg "quota -u")
+	> ![Alt user](https://github.com/Daniel-Xu/redhat_note/raw/master/pic/quota.jpg "quota -u")
 
 	*report for user quotas on device (disk partition)*
 
 	> repquota -a
 
-	> ![Alt report](https://github.com/liangxiao3/redhat_note/raw/master/pic/repquota.jpg "report quota")
+	> ![Alt report](https://github.com/Daniel-Xu/redhat_note/raw/master/pic/repquota.jpg "report quota")
 

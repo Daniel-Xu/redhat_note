@@ -38,7 +38,7 @@
 
   > for a instance, like this
   
-  > `![Alt desc](https://github.com/liangxiao3/redhat_note/raw/master/pic/pic_name.jpg "desc")`
+  > `![Alt desc](https://github.com/Daniel-Xu/redhat_note/raw/master/pic/pic_name.jpg "desc")`
 
 
 
